@@ -54,14 +54,6 @@ header {
   cursor: pointer;
 }
 
-// .search-form input {
-//   padding-left: 5px;
-//   position: relative;
-//   outline: none;
-//   border-top-left-radius: 5px;
-//   border-bottom-left-radius: 5px;
-// }
-
 .icon {
   display: inline-block;
   width: 1.5em;
@@ -70,13 +62,6 @@ header {
   stroke: currentColor;
   fill: rgb(29, 26, 26);
 }
-
-// .searchBtn:hover {
-//   color: dimgray;
-//   transition-property: color;
-//   transition-duration: 250ms;
-//   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-// }
 
 .gallery {
   display: grid;
